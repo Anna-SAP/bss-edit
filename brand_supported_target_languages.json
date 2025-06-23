@@ -1,0 +1,92 @@
+{
+  "1210": [
+    "en-US", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "3610": [
+    "en-US", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "3710": [
+    "en-US", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "2010": [
+    "en-US", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "5010": [
+    "en-US", "en-AU", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "2210": [
+    "en-US", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "7710": [
+    "en-GB", "de-DE", "fr-FR", "it-IT", "es-ES", "nl-NL"
+  ],
+  "1250": [
+    "en-US"
+  ],
+  "3420": [
+    "en-US", "en-GB", "fr-CA", "fr-FR", "de-DE", "it-IT", "es-ES", "nl-NL"
+  ],
+  "3460": [
+    "en-US", "en-GB", "fr-CA", "fr-FR", "de-DE", "it-IT", "es-ES", "nl-NL", "es-419"
+  ],
+  "7310": [
+    "en-US", "fr-CA", "fr-FR"
+  ],
+  "6010": [
+    "en-US", "en-AU", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "2020": [
+    "en-US", "en-AU", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "2110": [
+    "en-US", "en-AU", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "7010": [
+    "de-DE", "en-US", "en-GB", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "4210": [
+    "de-DE", "en-US", "en-GB", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "4810": [
+    "es-419", "en-US", "en-GB", "de-DE", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "4610": [
+    "en-CA", "en-US", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "4710": [
+    "de-DE", "en-US", "en-GB", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "4910": [
+    "de-DE", "en-US", "en-GB", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "2030": [
+    "de-DE", "en-US", "en-GB", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "2040": [
+    "de-DE", "en-US", "en-GB", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "2050": [
+    "en-GB", "en-US", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "5110": [
+    "en-US", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "5210": [
+    "en-US", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "3000": [
+    "en-US", "en-AU", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "2000": [
+    "en-US", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "3000.Brightspeed": [
+    "en-US", "en-AU", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "2000.Optus": [
+    "en-US", "en-AU", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ],
+  "3000.Zayo": [
+    "en-US", "en-AU", "en-GB", "de-DE", "es-419", "es-ES", "fr-CA", "fr-FR", "it-IT", "pt-BR", "ja-JP", "zh-CN", "zh-TW", "zh-HK", "ko-KR", "nl-NL", "pt-PT", "fi-FI"
+  ]
+}
