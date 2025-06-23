@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "904c2f35-8680-412d-98dc-1e371ea7a4ed",
+            "themeDisplayName": "밝은"
+        },
+        {
+            "themeId": "592b576a-c0bb-4e2c-b519-566e7a1cd9b2",
+            "themeDisplayName": "어두운"
+        },
+        {
+            "themeId": "a5f76620-64aa-4835-9495-1a051cae75bc",
+            "themeDisplayName": "고대비"
+        }
+    ],
+    "displayName": "AT&T Office@Hand",
+    "salutationName": "AT&T Office@Hand",
+    "notificationAppPrefixName": "AT&T",
+    "glipName": "",
+    "notificationVideoBridgeName": "AT&T Office@Hand Meeting",
+    "notificationTradeMark": "AT&T 및 AT&T 로고는 AT&T Intellectual Property의 상표입니다.",
+    "cancelSupportNumber": "1-866-733-0810 또는 1-925-264-3226(미국 외 지역)",
+    "companyBillingName": "RingCentral",
+    "shortDisplayName": "Office@Hand",
+    "salesSupportNumbers": "1-800-820-3676 및 1-925-301-8209",
+    "copyright": "AT&T Intellectual Property. All Rights Reserved.",
+    "videoProductName": "AT&T Office@Hand Meetings",
+    "mvpProductName": "AT&T Office@Hand 앱",
+    "officeDisplayName": "AT&T Office@Hand"
+}

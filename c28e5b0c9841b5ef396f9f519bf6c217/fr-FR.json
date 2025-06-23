@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "c81a7d27-a348-461b-9d25-104ba73c695c",
+            "themeDisplayName": "Clair"
+        },
+        {
+            "themeId": "512eddd5-3d80-4591-abaa-872bf8014517",
+            "themeDisplayName": "Sombre"
+        },
+        {
+            "themeId": "e4d72db8-93f5-4bee-b105-2798adadad22",
+            "themeDisplayName": "Contraste élevé"
+        }
+    ],
+    "displayName": "BT Cloud Work",
+    "salutationName": "BT Business",
+    "notificationAppPrefixName": "BT",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Réunion BT Cloud Work Video",
+    "notificationTradeMark": "RingCentral et le logo RingCentral sont des marques commerciales appartenant à RingCentral, Inc.",
+    "companyBillingName": "BT Cloud Work",
+    "shortDisplayName": "BT Cloud Work",
+    "copyright": "RingCentral, Inc. TOUS droits réservés.",
+    "videoProductName": "BT Cloud Work Video",
+    "mvpProductName": "Application BT Cloud Work",
+    "officeDisplayName": "BT Cloud Work",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/fr/fr/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

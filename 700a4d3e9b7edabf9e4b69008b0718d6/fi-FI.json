@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "77eceaec-17df-4176-bbbc-54d9fbe9a6e0",
+            "themeDisplayName": "Vaalea"
+        },
+        {
+            "themeId": "ed240921-9682-4e5f-b96f-4cb34d1ca9cc",
+            "themeDisplayName": "Tumma"
+        },
+        {
+            "themeId": "9eeba8d7-7f1e-45f0-86c9-008098e7bc7e",
+            "themeDisplayName": "Suuri kontrasti"
+        }
+    ],
+    "displayName": "RingCentral with Eastlink",
+    "salutationName": "RingCentral with Eastlink Team",
+    "notificationAppPrefixName": "RingCentral with Eastlink",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral with Eastlink Video -tapaaminen",
+    "notificationTradeMark": "Eastlink on Bragg Communications Inc:n rekisteröity tavaramerkki.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Eastlink",
+    "copyright": "RingCentral, Inc. Kaikki oikeudet pidätetään.",
+    "videoProductName": "RingCentral with Eastlink Video",
+    "mvpProductName": "RingCentral-sovellus",
+    "officeDisplayName": "RingCentral with Eastlink",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "c7ebbd6e-a964-421c-b114-e48dc6937b5e",
+            "themeDisplayName": "Clair"
+        },
+        {
+            "themeId": "a6dbadd8-9b1f-4425-a77a-d72c79d3e12b",
+            "themeDisplayName": "Sombre"
+        },
+        {
+            "themeId": "eb2fa9bb-abcb-4c88-adfc-c6e95f10c63b",
+            "themeDisplayName": "Contraste élevé"
+        }
+    ],
+    "displayName": "Vodafone Business UC with RingCentral",
+    "salutationName": "Vodafone Business UC with RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Réunion Vodafone Business UC Video",
+    "notificationTradeMark": "Vodafone et le logo Vodafone Business sont des marques de commerce de Vodafone Group Plc.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Vodafone Business UC with RingCentral",
+    "copyright": "RingCentral, Inc. Tous droits réservés.",
+    "videoProductName": "Vodafone Business UC with RingCentral Video",
+    "mvpProductName": "Application Vodafone Business with RingCentral",
+    "officeDisplayName": "Vodafone Business UC with RingCentral",
+    "businessInformationVerificationHelpPage": "https://support.vodafonebusiness.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=Vodafone"
+}

@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "6c52b135-f26a-4e17-b2a8-c793b3435dbc",
+            "themeDisplayName": "Light"
+        },
+        {
+            "themeId": "caa08332-ab53-4f99-bf74-fc80df338064",
+            "themeDisplayName": "Dark"
+        },
+        {
+            "themeId": "f729c9e5-2d9f-4163-9326-4dfa00c943a7",
+            "themeDisplayName": "High contrast"
+        }
+    ],
+    "displayName": "Unify Office",
+    "salutationName": "Unify Office Team",
+    "notificationAppPrefixName": "Unify Office",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Unify Office Video meeting",
+    "notificationTradeMark": "Unify is registered trademark and all right reserved to Unify.",
+    "cancelSupportNumber": "0 800-098-8136 or +44 203 514 9006 outside of the United Kingdom",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Unify Office",
+    "copyright": "Unify, a Mitel company.",
+    "videoProductName": "Unify Office Video",
+    "mvpProductName": "Unify Office App",
+    "officeDisplayName": "Unify Office",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

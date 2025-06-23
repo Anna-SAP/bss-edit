@@ -1,0 +1,40 @@
+{
+    "themes": [
+        {
+            "themeId": "31873e10-a33d-46de-ae2b-b9b97d0f897d",
+            "themeDisplayName": "Lake blue"
+        },
+        {
+            "themeId": "1edef5ae-79fd-466c-9431-1a4e97e03e6b",
+            "themeDisplayName": "Dark"
+        },
+        {
+            "themeId": "647721e6-3fd9-4815-a980-c522f509fc0b",
+            "themeDisplayName": "High contrast"
+        },
+        {
+            "themeId": "0f21cbf4-478d-44ad-bde5-745d9ba00920",
+            "themeDisplayName": "Sky blue"
+        },
+        {
+            "themeId": "830afe32-ac77-41d0-baaf-ead765f30c45",
+            "themeDisplayName": "Aubergine purple"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral Video meeting",
+    "notificationTradeMark": "All rights reserved. RingCentral and the RingCentral logo are trademarks of RingCentral, Inc.",
+    "cancelSupportNumber": "1800 940746 or +61 280738499 outside of Australia",
+    "companyBillingName": "RingCentral",
+    "shortDisplayName": "RingCentral",
+    "copyright": "RingCentral Intellectual Property.",
+    "emergencyServicePage": "https://www.ringcentral.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentral.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "RingCentral App",
+    "officeDisplayName": "RingEX™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/au/en/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

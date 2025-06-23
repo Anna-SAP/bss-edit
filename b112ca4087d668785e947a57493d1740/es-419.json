@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "64cabf34-3e56-4cf4-a81a-c5c0f1b5ccb7",
+            "themeDisplayName": "Claro"
+        },
+        {
+            "themeId": "2fb93b82-eef0-4426-9e30-68e44057f438",
+            "themeDisplayName": "Oscuro"
+        },
+        {
+            "themeId": "abcceb9c-d2bd-4fe3-b136-fd530f16b641",
+            "themeDisplayName": "Contraste alto"
+        }
+    ],
+    "displayName": "RingCentral for Symphony",
+    "salutationName": "RingCentral for Symphony Team",
+    "notificationAppPrefixName": "RingCentral for Symphony",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Reunión de RingCentral for Symphony Video",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Symphony",
+    "notificationTradeMark": "Symphony es una marca registrada de Megacable Comunicaciones de México, S.A. de C.V.",
+    "copyright": "RingCentral, Inc. Todos los derechos reservados.",
+    "videoProductName": "RingCentral for Symphony Video",
+    "mvpProductName": "Aplicación de RingCentral",
+    "officeDisplayName": "RingCentral for Symphony",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/es/es/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

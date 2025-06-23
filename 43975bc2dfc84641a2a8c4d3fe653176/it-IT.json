@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "6b7220a1-2ecb-4fce-a671-4e0be6d1ea3b",
+            "themeDisplayName": "Chiaro"
+        },
+        {
+            "themeId": "10baaf3d-1c60-4276-bc33-3d30f133d987",
+            "themeDisplayName": "Scuro"
+        },
+        {
+            "themeId": "d1cb11d4-43e3-42df-b689-ad28f5dadf2f",
+            "themeDisplayName": "Contrasto elevato"
+        }
+    ],
+    "displayName": "Frontier with RingCentral",
+    "salutationName": "Frontier with RingCentral Team",
+    "notificationAppPrefixName": "Frontier with RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Riunione Frontier with RingCentral Video",
+    "notificationTradeMark": "Frontier è un marchio registrato di Citizens Telecom Services Company L.L.C. operante con la denomiazione commerciale Frontier Communications.",
+    "companyBillingName": "RingCentral, Inc.",
+    "shortDisplayName": "Frontier",
+    "copyright": "RingCentral, Inc. Tutti i diritti riservati.",
+    "videoProductName": "Frontier with RingCentral Video",
+    "mvpProductName": "App RingCentral",
+    "officeDisplayName": "Frontier with RingCentral",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/it/it/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

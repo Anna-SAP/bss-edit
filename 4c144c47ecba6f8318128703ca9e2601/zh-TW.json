@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "55b6b26b-423d-4b16-bd78-765c91b5b5b3",
+            "themeDisplayName": "淺色"
+        },
+        {
+            "themeId": "29006b8e-0d88-44f7-8086-2a6471f591d6",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "6c41d37b-3375-43fb-9674-e8ce4b6170cd",
+            "themeDisplayName": "高對比度"
+        }
+    ],
+    "displayName": "Unify Office by RingCentral",
+    "salutationName": "Unify Office by RingCentral Team",
+    "notificationAppPrefixName": "Unify Office by RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Unify Office Video by RingCentral 會議",
+    "notificationTradeMark": "Unify Office-Telekom 是 Unify Communications and Collaboration GmbH & Co. KG 的註冊商標",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Unify Office",
+    "copyright": "RingCentral, Inc.。保留一切權利。",
+    "videoProductName": "Unify Office by RingCentral Video",
+    "mvpProductName": "RingCentral 應用程式",
+    "officeDisplayName": "Unify Office by RingCentral",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

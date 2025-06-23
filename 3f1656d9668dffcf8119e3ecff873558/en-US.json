@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "55438d41-47b7-43d3-8160-4f44dbaec9db",
+            "themeDisplayName": "Lake blue"
+        },
+        {
+            "themeId": "49fe9330-d512-11ec-9d64-0242ac120002",
+            "themeDisplayName": "Dark"
+        },
+        {
+            "themeId": "632b8250-d512-11ec-9d64-0242ac120002",
+            "themeDisplayName": "High contrast"
+        }
+    ],
+    "displayName": "Spectrum Business Connect with RingCentral",
+    "salutationName": "Spectrum Business Connect with RingCentral Team",
+    "notificationAppPrefixName": "Spectrum Business Connect with RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Spectrum Business Connect with RingCentral Video meeting",
+    "notificationTradeMark": "Spectrum Business is a registered trademark of Charter Communications, used under license.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Spectrum Business Connect",
+    "copyright": "RingCentral, Inc. All rights reserved.",
+    "videoProductName": "Spectrum Business Connect with RingCentral Video",
+    "mvpProductName": "RingCentral App",
+    "officeDisplayName": "Spectrum Business Connect with RingCentral",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

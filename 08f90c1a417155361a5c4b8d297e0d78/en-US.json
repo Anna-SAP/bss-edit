@@ -1,0 +1,32 @@
+{
+    "themes": [
+        {
+            "themeId": "dabbac8b-5587-4b2a-b33a-8f3dd99ddc06",
+            "themeDisplayName": "Lake blue"
+        },
+        {
+            "themeId": "b0878766-f7af-4f8b-b099-6c2a7caf9ec0",
+            "themeDisplayName": "Dark"
+        },
+        {
+            "themeId": "29c16c92-ab99-4165-8018-dae114d34872",
+            "themeDisplayName": "High contrast"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral Video meeting",
+    "notificationTradeMark": "All rights reserved. RingCentral and the RingCentral logo are trademarks of RingCentral, Inc.",
+    "cancelSupportNumber": "1800 940746 or +61 280738499 outside of Australia",
+    "companyBillingName": "RingCentral",
+    "shortDisplayName": "RingCentral",
+    "copyright": "RingCentral Intellectual Property.",
+    "emergencyServicePage": "https://www.ringcentral.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentral.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "RingCentral App",
+    "officeDisplayName": "RingCentral MVP™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

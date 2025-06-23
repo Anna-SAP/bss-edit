@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "40b54bb0-03f0-4ca5-be6d-f20b8a8f48db",
+            "themeDisplayName": "Chiaro"
+        },
+        {
+            "themeId": "d5832af8-f1f3-482b-949a-0accb5d48fda",
+            "themeDisplayName": "Scuro"
+        },
+        {
+            "themeId": "f3d65064-4366-4463-b0ae-1bb79afd0ad4",
+            "themeDisplayName": "Contrasto elevato"
+        }
+    ],
+    "displayName": "Rainbow Office",
+    "salutationName": "Rainbow Office Team",
+    "notificationAppPrefixName": "Rainbow Office",
+    "glipName": "Rainbow Office",
+    "notificationVideoBridgeName": "Riunione Rainbow Office Video",
+    "notificationTradeMark": "Rainbow è un marchio commerciale di ALE International.",
+    "companyBillingName": "Rainbow Office by RingCentral",
+    "shortDisplayName": "Rainbow Office",
+    "copyright": "RingCentral, Inc. Tutti i diritti riservati.",
+    "acceptableUsePolicyPage": "https://www.ringcentral.com/legal/acceptable-use-policy.html",
+    "videoProductName": "Rainbow Office Video",
+    "mvpProductName": "App Rainbow Office",
+    "officeDisplayName": "Rainbow Office",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/it/it/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

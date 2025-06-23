@@ -1,0 +1,42 @@
+{
+    "themes": [
+        {
+            "themeId": "e795b23c-e58b-43ce-a310-2e4698d5ec9d",
+            "themeDisplayName": "Turchese"
+        },
+        {
+            "themeId": "f4b88c4b-aba8-48de-a2c3-45e7e9418ab0",
+            "themeDisplayName": "Scuro"
+        },
+        {
+            "themeId": "fca0dce2-a0d9-4015-8f43-c1907df674f4",
+            "themeDisplayName": "Contrasto elevato"
+        },
+        {
+            "themeId": "8e872b19-da54-464c-a8b4-fb4ecaa93367",
+            "themeDisplayName": "Celeste"
+        },
+        {
+            "themeId": "d3823940-09fb-4373-9f29-4df3b87148d1",
+            "themeDisplayName": "Viola melanzana"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "salesRepresentativeNumbers": "1-800-820-3676 e 1-925-301-8209 al di fuori degli Stati Uniti",
+    "notificationVideoBridgeName": "Riunione RingCentral Video",
+    "notificationTradeMark": "Tutti i diritti riservati. RingCentral e il logo RingCentral sono marchi di RingCentral, Inc.",
+    "cancelSupportNumber": "(866) 733-0810 o (925) 271-7320 al di fuori degli Stati Uniti",
+    "companyBillingName": "RingCentral, Inc.",
+    "shortDisplayName": "RingCentral",
+    "salesSupportNumbers": "1-800-820-3676 e 1-925-301-8209",
+    "copyright": "RingCentral Intellectual Property.",
+    "emergencyServicePage": "https://www.ringcentralgov.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentralgov.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "App RingCentral",
+    "officeDisplayName": "RingCentral MVP™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentralgov.com/it/it/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

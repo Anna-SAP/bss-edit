@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "3bd67bd4-adb2-4e6a-98fa-e749784bb2c4",
+            "themeDisplayName": "ライト"
+        },
+        {
+            "themeId": "d76cd004-3a7e-4150-8d30-da6183c2ea70",
+            "themeDisplayName": "ダーク"
+        },
+        {
+            "themeId": "73f2fffb-97c7-430e-978e-c6cd3cd47b85",
+            "themeDisplayName": "ハイコントラスト"
+        }
+    ],
+    "displayName": "RingCentral with Verizon",
+    "salutationName": "RingCentral with Verizon Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral with Verizon Video会議",
+    "notificationTradeMark": "Verizonは、Verizon Communications, Inc.の登録商標です。",
+    "companyBillingName": "RingCentral with Verizon",
+    "shortDisplayName": "RingCentral with Verizon",
+    "copyright": "RingCentral, Inc. All rights reserved.",
+    "videoProductName": "RingCentral with Verizon Video",
+    "mvpProductName": "RingCentral with Verizon App",
+    "officeDisplayName": "RingCentral with Verizon",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

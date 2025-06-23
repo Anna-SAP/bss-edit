@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "3bd67bd4-adb2-4e6a-98fa-e749784bb2c4",
+            "themeDisplayName": "Clair"
+        },
+        {
+            "themeId": "d76cd004-3a7e-4150-8d30-da6183c2ea70",
+            "themeDisplayName": "Sombre"
+        },
+        {
+            "themeId": "73f2fffb-97c7-430e-978e-c6cd3cd47b85",
+            "themeDisplayName": "Contraste élevé"
+        }
+    ],
+    "displayName": "RingCentral with Verizon",
+    "salutationName": "RingCentral with Verizon Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Réunion RingCentral with Verizon Video",
+    "notificationTradeMark": "Verizon est une marque déposée de Verizon Communications, Inc.",
+    "companyBillingName": "RingCentral with Verizon",
+    "shortDisplayName": "RingCentral with Verizon",
+    "copyright": "RingCentral, Inc. Tous droits réservés.",
+    "videoProductName": "RingCentral with Verizon Video",
+    "mvpProductName": "Application RingCentral with Verizon",
+    "officeDisplayName": "RingCentral with Verizon",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/fr/fr/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

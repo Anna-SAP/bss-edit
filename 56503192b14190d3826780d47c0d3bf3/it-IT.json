@@ -1,0 +1,28 @@
+{
+    "themes": [
+        {
+            "themeId": "61a78519-5c4a-4c25-866b-27c3bee2c7fb",
+            "themeDisplayName": "Chiaro"
+        },
+        {
+            "themeId": "c7328f34-5729-4b6b-9686-820faa1b45a6",
+            "themeDisplayName": "Scuro"
+        },
+        {
+            "themeId": "e2ce2d60-e0ea-4585-b5f7-cbf84f1a95d8",
+            "themeDisplayName": "Contrasto elevato"
+        }
+    ],
+    "displayName": "AT&T Office@Hand",
+    "salutationName": "AT&T Office@Hand",
+    "notificationAppPrefixName": "AT&T",
+    "glipName": "",
+    "notificationVideoBridgeName": "Riunione AT&T Office@Hand",
+    "notificationTradeMark": "AT&T e il logo AT&T sono marchi di AT&T Intellectual Property.",
+    "companyBillingName": "AT&T Office@Hand",
+    "shortDisplayName": "Office@Hand",
+    "copyright": "AT&T Intellectual Property. Tutti i diritti riservati.",
+    "videoProductName": "AT&T Office@Hand Meetings",
+    "mvpProductName": "App AT&T Office@Hand",
+    "officeDisplayName": "AT&T Office@Hand"
+}

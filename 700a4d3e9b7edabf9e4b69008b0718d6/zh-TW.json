@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "77eceaec-17df-4176-bbbc-54d9fbe9a6e0",
+            "themeDisplayName": "淺色"
+        },
+        {
+            "themeId": "ed240921-9682-4e5f-b96f-4cb34d1ca9cc",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "9eeba8d7-7f1e-45f0-86c9-008098e7bc7e",
+            "themeDisplayName": "高對比度"
+        }
+    ],
+    "displayName": "RingCentral with Eastlink",
+    "salutationName": "RingCentral with Eastlink Team",
+    "notificationAppPrefixName": "RingCentral with Eastlink",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral with Eastlink Video 會議",
+    "notificationTradeMark": "Eastlink 是 Bragg Communications Inc. 的註冊商標。",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Eastlink",
+    "copyright": "RingCentral, Inc.。保留一切權利。",
+    "videoProductName": "RingCentral with Eastlink Video",
+    "mvpProductName": "RingCentral 應用程式",
+    "officeDisplayName": "RingCentral with Eastlink",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

@@ -1,0 +1,41 @@
+{
+    "themes": [
+        {
+            "themeId": "93dcfa21-7d7c-4662-97ac-2bfd266ee3cf",
+            "themeDisplayName": "레이크 블루"
+        },
+        {
+            "themeId": "19b48df9-940e-4158-beb6-a2846469588d",
+            "themeDisplayName": "어두운"
+        },
+        {
+            "themeId": "982bc168-da07-4a0f-b97e-9137388f8743",
+            "themeDisplayName": "고대비"
+        },
+        {
+            "themeId": "c33c12aa-41e5-4754-b6af-f09fe501b061",
+            "themeDisplayName": "스카이 블루"
+        },
+        {
+            "themeId": "a6503594-be5a-4bbd-b846-36d786ab057d",
+            "themeDisplayName": "에그플랜트 퍼플"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral Video 모임",
+    "notificationTradeMark": "All rights reserved. RingCentral 및 RingCentral 로고는 RingCentral, Inc.의 상표입니다.",
+    "cancelSupportNumber": "0 800-098-8136 또는 +44 203 514 9006(영국 외 지역)",
+    "companyBillingName": "RingCentral",
+    "shortDisplayName": "RingCentral",
+    "legalInfoPage": "https://www.ringcentral.com/legal.html",
+    "copyright": "RingCentral Intellectual Property.",
+    "emergencyServicePage": "https://www.ringcentral.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentral.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "RingCentral 앱",
+    "officeDisplayName": "RingEX™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

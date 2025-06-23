@@ -1,0 +1,42 @@
+{
+    "themes": [
+        {
+            "themeId": "e795b23c-e58b-43ce-a310-2e4698d5ec9d",
+            "themeDisplayName": "Vedensininen"
+        },
+        {
+            "themeId": "f4b88c4b-aba8-48de-a2c3-45e7e9418ab0",
+            "themeDisplayName": "Tumma"
+        },
+        {
+            "themeId": "fca0dce2-a0d9-4015-8f43-c1907df674f4",
+            "themeDisplayName": "Suuri kontrasti"
+        },
+        {
+            "themeId": "8e872b19-da54-464c-a8b4-fb4ecaa93367",
+            "themeDisplayName": "Taivaansininen"
+        },
+        {
+            "themeId": "d3823940-09fb-4373-9f29-4df3b87148d1",
+            "themeDisplayName": "Munakoisonvioletti"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "salesRepresentativeNumbers": "1-800-820-3676 ja 1-925-301-8209 Yhdysvaltain ulkopuolella",
+    "notificationVideoBridgeName": "RingCentral Video -tapaaminen",
+    "notificationTradeMark": "Kaikki oikeudet pidätetään. RingCentral ja RingCentral-logo ovat RingCentral, Inc:n tavaramerkkejä.",
+    "cancelSupportNumber": "(866) 733-0810 tai (925) 271-7320 Yhdysvaltain ulkopuolella",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "RingCentral",
+    "salesSupportNumbers": "1-800-820-3676 ja 1-925-301-8209",
+    "copyright": "RingCentral Intellectual Property.",
+    "emergencyServicePage": "https://www.ringcentralgov.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentralgov.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "RingCentral-sovellus",
+    "officeDisplayName": "RingCentral MVP™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentralgov.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

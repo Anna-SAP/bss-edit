@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "55438d41-47b7-43d3-8160-4f44dbaec9db",
+            "themeDisplayName": "Vedensininen"
+        },
+        {
+            "themeId": "49fe9330-d512-11ec-9d64-0242ac120002",
+            "themeDisplayName": "Tumma"
+        },
+        {
+            "themeId": "632b8250-d512-11ec-9d64-0242ac120002",
+            "themeDisplayName": "Suuri kontrasti"
+        }
+    ],
+    "displayName": "Spectrum Business Connect with RingCentral",
+    "salutationName": "Spectrum Business Connect with RingCentral Team",
+    "notificationAppPrefixName": "Spectrum Business Connect with RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Spectrum Business Connect with RingCentral Video -tapaaminen",
+    "notificationTradeMark": "Spectrum Business on Charter Communicationsin rekisteröity tavaramerkki, jota käytetään tässä lisenssillä.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Spectrum Business Connect",
+    "copyright": "RingCentral, Inc. Kaikki oikeudet pidätetään.",
+    "videoProductName": "Spectrum Business Connect with RingCentral Video",
+    "mvpProductName": "RingCentral-sovellus",
+    "officeDisplayName": "Spectrum Business Connect with RingCentral",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

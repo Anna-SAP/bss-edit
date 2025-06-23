@@ -1,0 +1,40 @@
+{
+    "themes": [
+        {
+            "themeId": "f45c4ade-bb7a-4abf-a89a-896abe461a93",
+            "themeDisplayName": "湖蓝色"
+        },
+        {
+            "themeId": "f9f9aa78-d2be-4403-ad64-ef223c42935c",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "79321506-d732-437b-8c28-a9176444d27e",
+            "themeDisplayName": "高对比度"
+        },
+        {
+            "themeId": "1f46ca90-81e1-4b34-b1dc-3636baf7fb30",
+            "themeDisplayName": "天蓝色"
+        },
+        {
+            "themeId": "4af8e15f-0269-40af-b81e-31ae9dfe1271",
+            "themeDisplayName": "茄皮紫"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral Video 会议",
+    "notificationTradeMark": "保留所有权利。RingCentral 和 RingCentral 徽标是 RingCentral, Inc. 的商标。",
+    "cancelSupportNumber": "0800-098-8136 或 +1 (925) 301-8209（英国境外）",
+    "companyBillingName": "RingCentral",
+    "shortDisplayName": "RingCentral",
+    "copyright": "RingCentral Intellectual Property。",
+    "emergencyServicePage": "https://www.ringcentral.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentral.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "RingCentral 应用",
+    "officeDisplayName": "RingEX™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

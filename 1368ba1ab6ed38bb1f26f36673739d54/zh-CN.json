@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "3bd67bd4-adb2-4e6a-98fa-e749784bb2c4",
+            "themeDisplayName": "浅色"
+        },
+        {
+            "themeId": "d76cd004-3a7e-4150-8d30-da6183c2ea70",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "73f2fffb-97c7-430e-978e-c6cd3cd47b85",
+            "themeDisplayName": "高对比度"
+        }
+    ],
+    "displayName": "RingCentral with Verizon",
+    "salutationName": "RingCentral with Verizon Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral with Verizon Video 会议",
+    "notificationTradeMark": "Verizon 是 Verizon Communications, Inc. 的注册商标。",
+    "companyBillingName": "RingCentral with Verizon",
+    "shortDisplayName": "RingCentral with Verizon",
+    "copyright": "RingCentral, Inc.。保留所有权利。",
+    "videoProductName": "RingCentral with Verizon Video",
+    "mvpProductName": "RingCentral with Verizon 应用",
+    "officeDisplayName": "RingCentral with Verizon",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

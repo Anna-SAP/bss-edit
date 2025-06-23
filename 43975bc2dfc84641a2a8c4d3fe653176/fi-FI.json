@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "6b7220a1-2ecb-4fce-a671-4e0be6d1ea3b",
+            "themeDisplayName": "Vaalea"
+        },
+        {
+            "themeId": "10baaf3d-1c60-4276-bc33-3d30f133d987",
+            "themeDisplayName": "Tumma"
+        },
+        {
+            "themeId": "d1cb11d4-43e3-42df-b689-ad28f5dadf2f",
+            "themeDisplayName": "Suuri kontrasti"
+        }
+    ],
+    "displayName": "Frontier with RingCentral",
+    "salutationName": "Frontier with RingCentral Team",
+    "notificationAppPrefixName": "Frontier with RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Frontier with RingCentral Video -tapaaminen",
+    "notificationTradeMark": "Frontier on Citizens Telecom Services Company L.L.C:n, kauppanimeltään Frontier Communicationsin, rekisteröity tavaramerkki.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Frontier",
+    "copyright": "RingCentral, Inc. Kaikki oikeudet pidätetään.",
+    "videoProductName": "Frontier with RingCentral Video",
+    "mvpProductName": "RingCentral-sovellus",
+    "officeDisplayName": "Frontier with RingCentral",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

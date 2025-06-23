@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "64cabf34-3e56-4cf4-a81a-c5c0f1b5ccb7",
+            "themeDisplayName": "淺色"
+        },
+        {
+            "themeId": "2fb93b82-eef0-4426-9e30-68e44057f438",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "abcceb9c-d2bd-4fe3-b136-fd530f16b641",
+            "themeDisplayName": "高對比度"
+        }
+    ],
+    "displayName": "RingCentral for Symphony",
+    "salutationName": "RingCentral for Symphony Team",
+    "notificationAppPrefixName": "RingCentral for Symphony",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral for Symphony Video 會議",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Symphony",
+    "notificationTradeMark": "Symphony 是 Megacable Comunicaciones de México, S.A. de C.V. 的註冊商標。",
+    "copyright": "RingCentral, Inc.。保留一切權利。",
+    "videoProductName": "RingCentral for Symphony Video",
+    "mvpProductName": "RingCentral 應用程式",
+    "officeDisplayName": "RingCentral for Symphony",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

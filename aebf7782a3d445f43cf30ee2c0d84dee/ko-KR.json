@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "982070bc-994a-4c86-8a25-3c4dacfe7e94",
+            "themeDisplayName": "밝은"
+        },
+        {
+            "themeId": "c4ca4238-a0b9-2382-0dcc-509a6f75849b",
+            "themeDisplayName": "어두운"
+        },
+        {
+            "themeId": "c20ad4d7-6fe9-7759-aa27-a0c99bff6710",
+            "themeDisplayName": "고대비"
+        }
+    ],
+    "displayName": "RingCentral with Sunrise",
+    "salutationName": "RingCentral with Sunrise",
+    "notificationAppPrefixName": "RingCentral with Sunrise",
+    "glipName": "GLIP",
+    "notificationVideoBridgeName": "RingCentral with Sunrise Video 모임",
+    "notificationTradeMark": "Sunrise 및 Sunrise 로고는 Sunrise UPC LLC의 상표입니다.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Sunrise",
+    "copyright": "RingCentral, Inc. All rights reserved.",
+    "videoProductName": "RingCentral with Sunrise Video",
+    "mvpProductName": "RingCentral 앱",
+    "officeDisplayName": "RingCentral with Sunrise",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

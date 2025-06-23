@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "6c52b135-f26a-4e17-b2a8-c793b3435dbc",
+            "themeDisplayName": "밝은"
+        },
+        {
+            "themeId": "caa08332-ab53-4f99-bf74-fc80df338064",
+            "themeDisplayName": "어두운"
+        },
+        {
+            "themeId": "f729c9e5-2d9f-4163-9326-4dfa00c943a7",
+            "themeDisplayName": "고대비"
+        }
+    ],
+    "displayName": "Unify Office",
+    "salutationName": "Unify Office Team",
+    "notificationAppPrefixName": "Unify Office",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Unify Office Video 모임",
+    "notificationTradeMark": "Unify는 등록 상표이며 모든 권리는 Unify에서 보유합니다.",
+    "cancelSupportNumber": "0 800-098-8136 또는 +44 203 514 9006(영국 외 지역)",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Unify Office",
+    "copyright": "Mitel의 계열사 Unify.",
+    "videoProductName": "Unify Office Video",
+    "mvpProductName": "Unify Office 앱",
+    "officeDisplayName": "Unify Office",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "40b54bb0-03f0-4ca5-be6d-f20b8a8f48db",
+            "themeDisplayName": "浅色"
+        },
+        {
+            "themeId": "d5832af8-f1f3-482b-949a-0accb5d48fda",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "f3d65064-4366-4463-b0ae-1bb79afd0ad4",
+            "themeDisplayName": "高对比度"
+        }
+    ],
+    "displayName": "Rainbow Office",
+    "salutationName": "Rainbow Office Team",
+    "notificationAppPrefixName": "Rainbow Office",
+    "glipName": "Rainbow Office",
+    "notificationVideoBridgeName": "Rainbow Office Video 会议",
+    "notificationTradeMark": "Rainbow 是 ALE International 的商标。",
+    "companyBillingName": "Rainbow Office by RingCentral",
+    "shortDisplayName": "Rainbow Office",
+    "copyright": "RingCentral, Inc.。保留所有权利。",
+    "acceptableUsePolicyPage": "https://www.ringcentral.com/legal/acceptable-use-policy.html",
+    "videoProductName": "Rainbow Office Video",
+    "mvpProductName": "Rainbow Office 应用",
+    "officeDisplayName": "Rainbow Office",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

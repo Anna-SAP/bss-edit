@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "c7ebbd6e-a964-421c-b114-e48dc6937b5e",
+            "themeDisplayName": "淺色"
+        },
+        {
+            "themeId": "a6dbadd8-9b1f-4425-a77a-d72c79d3e12b",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "eb2fa9bb-abcb-4c88-adfc-c6e95f10c63b",
+            "themeDisplayName": "高對比度"
+        }
+    ],
+    "displayName": "Vodafone Business UC with RingCentral",
+    "salutationName": "Vodafone Business UC with RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Vodafone Business UC Video 會議",
+    "notificationTradeMark": "Vodafone 和 Vodafone Business 標誌是 Vodafone Group Plc. 的商標。",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Vodafone Business UC with RingCentral",
+    "copyright": "RingCentral, Inc.。保留一切權利。",
+    "videoProductName": "Vodafone Business UC with RingCentral Video",
+    "mvpProductName": "Vodafone Business with RingCentral 應用程式",
+    "officeDisplayName": "Vodafone Business UC with RingCentral",
+    "businessInformationVerificationHelpPage": "https://support.vodafonebusiness.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=Vodafone"
+}

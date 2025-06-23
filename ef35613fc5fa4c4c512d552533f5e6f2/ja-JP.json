@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "11136d12-30db-40ab-8934-cb7cbc8b3bfb",
+            "themeDisplayName": "ライト"
+        },
+        {
+            "themeId": "56cdc9f9-cc93-4fe9-ac01-45c4fb4f01c4",
+            "themeDisplayName": "ダーク"
+        },
+        {
+            "themeId": "9410ae05-dbef-4779-9929-b4d9948a1941",
+            "themeDisplayName": "ハイコントラスト"
+        }
+    ],
+    "displayName": "RingCentral mit ecotel",
+    "salutationName": "RingCentral mit ecotel Team",
+    "notificationAppPrefixName": "RingCentral mit ecotel",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral mit ecotel Video会議",
+    "notificationTradeMark": "ecotelは、ecotel communication agの登録商標です。",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "RingCentral",
+    "copyright": "RingCentral, Inc. All rights reserved.",
+    "videoProductName": "RingCentral mit ecotel Video",
+    "mvpProductName": "RingCentral App",
+    "officeDisplayName": "RingCentral mit ecotel",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

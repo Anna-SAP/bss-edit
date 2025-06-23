@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "904c2f35-8680-412d-98dc-1e371ea7a4ed",
+            "themeDisplayName": "Claro"
+        },
+        {
+            "themeId": "592b576a-c0bb-4e2c-b519-566e7a1cd9b2",
+            "themeDisplayName": "Oscuro"
+        },
+        {
+            "themeId": "a5f76620-64aa-4835-9495-1a051cae75bc",
+            "themeDisplayName": "Contraste alto"
+        }
+    ],
+    "displayName": "AT&T Office@Hand",
+    "salutationName": "AT&T Office@Hand",
+    "notificationAppPrefixName": "AT&T",
+    "glipName": "",
+    "notificationVideoBridgeName": "AT&T Office@Hand Meeting",
+    "notificationTradeMark": "AT&T y el logotipo de AT&T son marcas comerciales de AT&T Intellectual Property.",
+    "cancelSupportNumber": "1-866-733-0810 o 1-925-264-3226 (fuera de Estados Unidos)",
+    "companyBillingName": "RingCentral",
+    "shortDisplayName": "Office@Hand",
+    "salesSupportNumbers": "1-800-820-3676 y 1-925-301-8209",
+    "copyright": "AT&T Intellectual Property. Todos los derechos reservados.",
+    "videoProductName": "AT&T Office@Hand Meetings",
+    "mvpProductName": "Aplicación AT&T Office@Hand",
+    "officeDisplayName": "AT&T Office@Hand"
+}

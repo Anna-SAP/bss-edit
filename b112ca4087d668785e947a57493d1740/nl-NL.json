@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "64cabf34-3e56-4cf4-a81a-c5c0f1b5ccb7",
+            "themeDisplayName": "Licht"
+        },
+        {
+            "themeId": "2fb93b82-eef0-4426-9e30-68e44057f438",
+            "themeDisplayName": "Donker"
+        },
+        {
+            "themeId": "abcceb9c-d2bd-4fe3-b136-fd530f16b641",
+            "themeDisplayName": "Hoog contrast"
+        }
+    ],
+    "displayName": "RingCentral for Symphony",
+    "salutationName": "RingCentral for Symphony Team",
+    "notificationAppPrefixName": "RingCentral for Symphony",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral for Symphony Video-meeting",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Symphony",
+    "notificationTradeMark": "Symphony is een geregistreerd handelsmerk van Megacable Comunicaciones de México, S.A. de C.V.",
+    "copyright": "RingCentral, Inc. Alle rechten voorbehouden.",
+    "videoProductName": "RingCentral for Symphony Video",
+    "mvpProductName": "RingCentral-app",
+    "officeDisplayName": "RingCentral for Symphony",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

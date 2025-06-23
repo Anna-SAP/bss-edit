@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "904c2f35-8680-412d-98dc-1e371ea7a4ed",
+            "themeDisplayName": "淺色"
+        },
+        {
+            "themeId": "592b576a-c0bb-4e2c-b519-566e7a1cd9b2",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "a5f76620-64aa-4835-9495-1a051cae75bc",
+            "themeDisplayName": "高對比度"
+        }
+    ],
+    "displayName": "AT&T Office@Hand",
+    "salutationName": "AT&T Office@Hand",
+    "notificationAppPrefixName": "AT&T",
+    "glipName": "",
+    "notificationVideoBridgeName": "AT&T Office@Hand Meeting",
+    "notificationTradeMark": "AT&T 和 AT&T 標誌是 AT&T Intellectual Property 的商標。",
+    "cancelSupportNumber": "1-866-733-0810 或 1-925-264-3226（非美國地區）",
+    "companyBillingName": "RingCentral",
+    "shortDisplayName": "Office@Hand",
+    "salesSupportNumbers": "1-800-820-3676 和 1-925-301-8209",
+    "copyright": "AT&T Intellectual Property。保留一切權利。",
+    "videoProductName": "AT&T Office@Hand Meetings",
+    "mvpProductName": "AT&T Office@Hand 應用程式",
+    "officeDisplayName": "AT&T Office@Hand"
+}

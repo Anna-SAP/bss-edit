@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "58e7782f-0fd0-4d88-bf02-0f411b7941d9",
+            "themeDisplayName": "Claro"
+        },
+        {
+            "themeId": "030a2d55-64d3-44b7-b66f-4896a33d6fd3",
+            "themeDisplayName": "Escuro"
+        },
+        {
+            "themeId": "42f08b65-a6b1-44b7-bae2-c998e009c5c5",
+            "themeDisplayName": "Alto contraste"
+        }
+    ],
+    "displayName": "RingCentral mit Telekom",
+    "salutationName": "RingCentral mit Telekom Team",
+    "notificationAppPrefixName": "RingCentral mit Telekom",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Reunião do RingCentral mit Telekom Video",
+    "notificationTradeMark": "Telekom é uma marca comercial registada da Telekom Deutschland GmbH.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Telekom",
+    "copyright": "RingCentral, Inc. Todos os direitos reservados.",
+    "videoProductName": "RingCentral mit Telekom Video",
+    "mvpProductName": "Aplicação RingCentral",
+    "officeDisplayName": "RingCentral mit Telekom",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/pt/pt/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

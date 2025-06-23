@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "982070bc-994a-4c86-8a25-3c4dacfe7e94",
+            "themeDisplayName": "淺色"
+        },
+        {
+            "themeId": "c4ca4238-a0b9-2382-0dcc-509a6f75849b",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "c20ad4d7-6fe9-7759-aa27-a0c99bff6710",
+            "themeDisplayName": "高對比度"
+        }
+    ],
+    "displayName": "RingCentral with Sunrise",
+    "salutationName": "RingCentral with Sunrise",
+    "notificationAppPrefixName": "RingCentral with Sunrise",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral with Sunrise Video 會議",
+    "notificationTradeMark": "Sunrise 和 Sunrise 標誌是 Sunrise UPC LLC 的商標。",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Sunrise",
+    "copyright": "RingCentral, Inc.。保留一切權利。",
+    "videoProductName": "RingCentral with Sunrise Video",
+    "mvpProductName": "RingCentral 應用程式",
+    "officeDisplayName": "RingCentral with Sunrise",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

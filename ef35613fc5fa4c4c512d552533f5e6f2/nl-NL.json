@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "11136d12-30db-40ab-8934-cb7cbc8b3bfb",
+            "themeDisplayName": "Licht"
+        },
+        {
+            "themeId": "56cdc9f9-cc93-4fe9-ac01-45c4fb4f01c4",
+            "themeDisplayName": "Donker"
+        },
+        {
+            "themeId": "9410ae05-dbef-4779-9929-b4d9948a1941",
+            "themeDisplayName": "Hoog contrast"
+        }
+    ],
+    "displayName": "RingCentral mit ecotel",
+    "salutationName": "RingCentral mit ecotel Team",
+    "notificationAppPrefixName": "RingCentral mit ecotel",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral mit ecotel Video-meeting",
+    "notificationTradeMark": "ecotel is een geregistreerd handelsmerk van ecotel communication ag.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "RingCentral",
+    "copyright": "RingCentral, Inc. Alle rechten voorbehouden.",
+    "videoProductName": "RingCentral mit ecotel Video",
+    "mvpProductName": "RingCentral-app",
+    "officeDisplayName": "RingCentral mit ecotel",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

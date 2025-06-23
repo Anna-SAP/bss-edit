@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "535fc94c-93b0-41c9-bac2-806dbf3bac45",
+            "themeDisplayName": "Lake blue"
+        },
+        {
+            "themeId": "0e828604-fcc8-4304-9a63-6e6e29d54e20",
+            "themeDisplayName": "Dark"
+        },
+        {
+            "themeId": "1b2a0e9b-49f6-477f-b389-77345d2975e5",
+            "themeDisplayName": "High contrast"
+        }
+    ],
+    "displayName": "Spectrum Enterprise Unified Communications with RingCentral",
+    "salutationName": "Spectrum Enterprise Unified Communications with RingCentral Team",
+    "notificationAppPrefixName": "Spectrum Enterprise Unified Communications with RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Spectrum Enterprise Unified Communications with RingCentral Video meeting",
+    "notificationTradeMark": "Spectrum Enterprise is a trademark of Charter Communications, used under licence",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Spectrum Enterprise",
+    "copyright": "RingCentral, Inc. All rights reserved.",
+    "videoProductName": "Spectrum Enterprise Unified Communications with RingCentral Video",
+    "mvpProductName": "RingCentral App",
+    "officeDisplayName": "Spectrum Enterprise Unified Communications with RingCentral",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/gb/en/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

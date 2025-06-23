@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "e6dd367d-844d-45da-ace7-14f4f444e233",
+            "themeDisplayName": "Claro"
+        },
+        {
+            "themeId": "0be4afbf-ce9e-4537-91fe-e2fc88a82cf7",
+            "themeDisplayName": "Escuro"
+        },
+        {
+            "themeId": "2f555de9-4e4d-4083-8a94-2848432d0f4d",
+            "themeDisplayName": "Alto contraste"
+        }
+    ],
+    "displayName": "Avaya Cloud Office",
+    "salutationName": "Avaya Cloud Office Team",
+    "notificationAppPrefixName": "Avaya Cloud",
+    "glipName": "Avaya Cloud",
+    "notificationVideoBridgeName": "Reunião do Avaya Cloud Office Video",
+    "notificationTradeMark": "Avaya e o logótipo Avaya são marcas comerciais da Avaya Intellectual Property.",
+    "cancelSupportNumber": "(866) 733-0810 ou (925) 271-7320 fora dos Estados Unidos",
+    "companyBillingName": "Avaya Cloud byRingCentral",
+    "shortDisplayName": "Avaya Cloud Office",
+    "copyright": "Avaya.",
+    "videoProductName": "Avaya Cloud Office Video",
+    "mvpProductName": "Aplicação Avaya Cloud",
+    "officeDisplayName": "Avaya Cloud Office",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/pt/pt/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

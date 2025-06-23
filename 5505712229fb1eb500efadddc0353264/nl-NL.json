@@ -1,0 +1,40 @@
+{
+    "themes": [
+        {
+            "themeId": "f45c4ade-bb7a-4abf-a89a-896abe461a93",
+            "themeDisplayName": "Meerblauw"
+        },
+        {
+            "themeId": "f9f9aa78-d2be-4403-ad64-ef223c42935c",
+            "themeDisplayName": "Donker"
+        },
+        {
+            "themeId": "79321506-d732-437b-8c28-a9176444d27e",
+            "themeDisplayName": "Hoog contrast"
+        },
+        {
+            "themeId": "1f46ca90-81e1-4b34-b1dc-3636baf7fb30",
+            "themeDisplayName": "Luchtblauw"
+        },
+        {
+            "themeId": "4af8e15f-0269-40af-b81e-31ae9dfe1271",
+            "themeDisplayName": "Auberginepaars"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral Video-meeting",
+    "notificationTradeMark": "Alle rechten voorbehouden. RingCentral en het RingCentral-logo zijn handelsmerken van RingCentral, Inc.",
+    "cancelSupportNumber": "0800-098-8136 of +1 (925) 301-8209 buiten het Verenigd Koninkrijk",
+    "companyBillingName": "RingCentral",
+    "shortDisplayName": "RingCentral",
+    "copyright": "RingCentral Intellectual Property.",
+    "emergencyServicePage": "https://www.ringcentral.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentral.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "RingCentral-app",
+    "officeDisplayName": "RingEX™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

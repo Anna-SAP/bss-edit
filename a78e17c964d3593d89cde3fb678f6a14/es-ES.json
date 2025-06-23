@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "9684a0ad-9d7e-42db-b6ed-18065ccaecce",
+            "themeDisplayName": "Claro"
+        },
+        {
+            "themeId": "8e362095-e71e-4981-adc6-0d70122efeba",
+            "themeDisplayName": "Oscuro"
+        },
+        {
+            "themeId": "9280e215-3959-440a-b0d1-565aab5f2825",
+            "themeDisplayName": "Contraste alto"
+        }
+    ],
+    "displayName": "RingCentral mit 1&1 Connected Calls",
+    "salutationName": "RingCentral mit 1&1 Team",
+    "notificationAppPrefixName": "RingCentral mit 1&1 Connected Calls",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Reunión de RingCentral Video mit 1&1 Connected Calls",
+    "notificationTradeMark": "1&1 Connected Calls es una marca comercial registrada de 1&1 Versatel Deutschland GmbH.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "1und1",
+    "copyright": "RingCentral, Inc. Todos los derechos reservados.",
+    "videoProductName": "RingCentral Video mit 1&1 Connected Calls",
+    "mvpProductName": "Aplicación de RingCentral",
+    "officeDisplayName": "RingCentral mit 1&1 Connected Calls",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/es/es/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

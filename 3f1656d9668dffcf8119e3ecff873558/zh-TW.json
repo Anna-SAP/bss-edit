@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "55438d41-47b7-43d3-8160-4f44dbaec9db",
+            "themeDisplayName": "湖水藍"
+        },
+        {
+            "themeId": "49fe9330-d512-11ec-9d64-0242ac120002",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "632b8250-d512-11ec-9d64-0242ac120002",
+            "themeDisplayName": "高對比度"
+        }
+    ],
+    "displayName": "Spectrum Business Connect with RingCentral",
+    "salutationName": "Spectrum Business Connect with RingCentral Team",
+    "notificationAppPrefixName": "Spectrum Business Connect with RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Spectrum Business Connect with RingCentral Video 會議",
+    "notificationTradeMark": "Spectrum Business 是 Charter Communications 依照授權使用的註冊商標。",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Spectrum Business Connect",
+    "copyright": "RingCentral, Inc.。保留一切權利。",
+    "videoProductName": "Spectrum Business Connect with RingCentral Video",
+    "mvpProductName": "RingCentral 應用程式",
+    "officeDisplayName": "Spectrum Business Connect with RingCentral",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

@@ -1,0 +1,32 @@
+{
+    "themes": [
+        {
+            "themeId": "dabbac8b-5587-4b2a-b33a-8f3dd99ddc06",
+            "themeDisplayName": "레이크 블루"
+        },
+        {
+            "themeId": "b0878766-f7af-4f8b-b099-6c2a7caf9ec0",
+            "themeDisplayName": "어두운"
+        },
+        {
+            "themeId": "29c16c92-ab99-4165-8018-dae114d34872",
+            "themeDisplayName": "고대비"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral Video 모임",
+    "notificationTradeMark": "All rights reserved. RingCentral 및 RingCentral 로고는 RingCentral, Inc.의 상표입니다.",
+    "cancelSupportNumber": "1800 940746 또는 +61 280738499(오스트레일리아 외 지역)",
+    "companyBillingName": "RingCentral",
+    "shortDisplayName": "RingCentral",
+    "copyright": "RingCentral Intellectual Property.",
+    "emergencyServicePage": "https://www.ringcentral.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentral.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "RingCentral 앱",
+    "officeDisplayName": "RingCentral MVP™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

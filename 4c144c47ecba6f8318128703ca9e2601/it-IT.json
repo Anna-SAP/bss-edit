@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "55b6b26b-423d-4b16-bd78-765c91b5b5b3",
+            "themeDisplayName": "Chiaro"
+        },
+        {
+            "themeId": "29006b8e-0d88-44f7-8086-2a6471f591d6",
+            "themeDisplayName": "Scuro"
+        },
+        {
+            "themeId": "6c41d37b-3375-43fb-9674-e8ce4b6170cd",
+            "themeDisplayName": "Contrasto elevato"
+        }
+    ],
+    "displayName": "Unify Office by RingCentral",
+    "salutationName": "Unify Office by RingCentral Team",
+    "notificationAppPrefixName": "Unify Office by RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Riunione Unify Office Video by RingCentral",
+    "notificationTradeMark": "Unify Office-Telekom è un marchio commerciale registrato di Unify Communications and Collaboration GmbH & Co. KG",
+    "companyBillingName": "RingCentral, Inc.",
+    "shortDisplayName": "Unify Office",
+    "copyright": "RingCentral, Inc. Tutti i diritti riservati.",
+    "videoProductName": "Unify Office by RingCentral Video",
+    "mvpProductName": "App RingCentral",
+    "officeDisplayName": "Unify Office by RingCentral",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/it/it/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

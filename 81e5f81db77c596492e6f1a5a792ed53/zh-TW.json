@@ -1,0 +1,42 @@
+{
+    "themes": [
+        {
+            "themeId": "e795b23c-e58b-43ce-a310-2e4698d5ec9d",
+            "themeDisplayName": "湖水藍"
+        },
+        {
+            "themeId": "f4b88c4b-aba8-48de-a2c3-45e7e9418ab0",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "fca0dce2-a0d9-4015-8f43-c1907df674f4",
+            "themeDisplayName": "高對比度"
+        },
+        {
+            "themeId": "8e872b19-da54-464c-a8b4-fb4ecaa93367",
+            "themeDisplayName": "天空藍"
+        },
+        {
+            "themeId": "d3823940-09fb-4373-9f29-4df3b87148d1",
+            "themeDisplayName": "茄紫色"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "salesRepresentativeNumbers": "1-800-820-3676 和 1-925-301-8209（非美國地區）",
+    "notificationVideoBridgeName": "RingCentral Video 會議",
+    "notificationTradeMark": "保留一切權利。RingCentral 與 RingCentral 標誌為 RingCentral, Inc. 的商標。",
+    "cancelSupportNumber": "(866) 733-0810 或 (925) 271-7320（非美國地區）",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "RingCentral",
+    "salesSupportNumbers": "1-800-820-3676 和 1-925-301-8209",
+    "copyright": "RingCentral Intellectual Property。",
+    "emergencyServicePage": "https://www.ringcentralgov.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentralgov.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "RingCentral 應用程式",
+    "officeDisplayName": "RingCentral MVP™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentralgov.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

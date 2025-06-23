@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "58e7782f-0fd0-4d88-bf02-0f411b7941d9",
+            "themeDisplayName": "淺色"
+        },
+        {
+            "themeId": "030a2d55-64d3-44b7-b66f-4896a33d6fd3",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "42f08b65-a6b1-44b7-bae2-c998e009c5c5",
+            "themeDisplayName": "高對比度"
+        }
+    ],
+    "displayName": "RingCentral mit Telekom",
+    "salutationName": "RingCentral mit Telekom Team",
+    "notificationAppPrefixName": "RingCentral mit Telekom",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral mit Telekom Video 會議",
+    "notificationTradeMark": "Telekom 是 Telekom Deutschland GmbH 的註冊商標。",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Telekom",
+    "copyright": "RingCentral, Inc.。保留一切權利。",
+    "videoProductName": "RingCentral mit Telekom Video",
+    "mvpProductName": "RingCentral 應用程式",
+    "officeDisplayName": "RingCentral mit Telekom",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

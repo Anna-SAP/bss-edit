@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "9684a0ad-9d7e-42db-b6ed-18065ccaecce",
+            "themeDisplayName": "밝은"
+        },
+        {
+            "themeId": "8e362095-e71e-4981-adc6-0d70122efeba",
+            "themeDisplayName": "어두운"
+        },
+        {
+            "themeId": "9280e215-3959-440a-b0d1-565aab5f2825",
+            "themeDisplayName": "고대비"
+        }
+    ],
+    "displayName": "RingCentral mit 1&1 Connected Calls",
+    "salutationName": "RingCentral mit 1&1 Team",
+    "notificationAppPrefixName": "RingCentral mit 1&1 Connected Calls",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral Video mit 1&1 Connected Calls 모임",
+    "notificationTradeMark": "1&1 Connected Calls는 1&1 Versatel Deutschland GmbH의 등록 상표입니다.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "1und1",
+    "copyright": "RingCentral, Inc. All rights reserved.",
+    "videoProductName": "RingCentral Video mit 1&1 Connected Calls",
+    "mvpProductName": "RingCentral 앱",
+    "officeDisplayName": "RingCentral mit 1&1 Connected Calls",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

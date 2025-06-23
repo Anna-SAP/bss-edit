@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "e6dd367d-844d-45da-ace7-14f4f444e233",
+            "themeDisplayName": "浅色"
+        },
+        {
+            "themeId": "0be4afbf-ce9e-4537-91fe-e2fc88a82cf7",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "2f555de9-4e4d-4083-8a94-2848432d0f4d",
+            "themeDisplayName": "高对比度"
+        }
+    ],
+    "displayName": "Avaya Cloud Office",
+    "salutationName": "Avaya Cloud Office Team",
+    "notificationAppPrefixName": "Avaya Cloud",
+    "glipName": "Avaya Cloud",
+    "notificationVideoBridgeName": "Avaya Cloud Office Video 会议",
+    "notificationTradeMark": "Avaya 和 Avaya 徽标是 Avaya Intellectual Property 的商标。",
+    "cancelSupportNumber": "(866) 733-0810 或 (925) 271-7320（美国境外）",
+    "companyBillingName": "Avaya Cloud byRingCentral",
+    "shortDisplayName": "Avaya Cloud Office",
+    "copyright": "Avaya。",
+    "videoProductName": "Avaya Cloud Office Video",
+    "mvpProductName": "Avaya Cloud 应用",
+    "officeDisplayName": "Avaya Cloud Office",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

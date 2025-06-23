@@ -1,0 +1,42 @@
+{
+    "themes": [
+        {
+            "themeId": "e795b23c-e58b-43ce-a310-2e4698d5ec9d",
+            "themeDisplayName": "레이크 블루"
+        },
+        {
+            "themeId": "f4b88c4b-aba8-48de-a2c3-45e7e9418ab0",
+            "themeDisplayName": "어두운"
+        },
+        {
+            "themeId": "fca0dce2-a0d9-4015-8f43-c1907df674f4",
+            "themeDisplayName": "고대비"
+        },
+        {
+            "themeId": "8e872b19-da54-464c-a8b4-fb4ecaa93367",
+            "themeDisplayName": "스카이 블루"
+        },
+        {
+            "themeId": "d3823940-09fb-4373-9f29-4df3b87148d1",
+            "themeDisplayName": "에그플랜트 퍼플"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "salesRepresentativeNumbers": "1-800-820-3676 및 1-925-301-8209(미국 외 지역)",
+    "notificationVideoBridgeName": "RingCentral Video 모임",
+    "notificationTradeMark": "All rights reserved. RingCentral 및 RingCentral 로고는 RingCentral, Inc.의 상표입니다.",
+    "cancelSupportNumber": "(866) 733-0810 또는 (925) 271-7320(미국 외 지역)",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "RingCentral",
+    "salesSupportNumbers": "1-800-820-3676 및 1-925-301-8209",
+    "copyright": "RingCentral Intellectual Property.",
+    "emergencyServicePage": "https://www.ringcentralgov.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentralgov.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "RingCentral 앱",
+    "officeDisplayName": "RingCentral MVP™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentralgov.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

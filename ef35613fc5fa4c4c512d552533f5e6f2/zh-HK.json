@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "11136d12-30db-40ab-8934-cb7cbc8b3bfb",
+            "themeDisplayName": "淺色"
+        },
+        {
+            "themeId": "56cdc9f9-cc93-4fe9-ac01-45c4fb4f01c4",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "9410ae05-dbef-4779-9929-b4d9948a1941",
+            "themeDisplayName": "高對比度"
+        }
+    ],
+    "displayName": "RingCentral mit ecotel",
+    "salutationName": "RingCentral mit ecotel Team",
+    "notificationAppPrefixName": "RingCentral mit ecotel",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral mit ecotel Video 會議",
+    "notificationTradeMark": "ecotel 是 ecotel communication ag 的註冊商標。",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "RingCentral",
+    "copyright": "RingCentral, Inc.。保留一切權利。",
+    "videoProductName": "RingCentral mit ecotel Video",
+    "mvpProductName": "RingCentral 應用程式",
+    "officeDisplayName": "RingCentral mit ecotel",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

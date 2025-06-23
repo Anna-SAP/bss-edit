@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "6c52b135-f26a-4e17-b2a8-c793b3435dbc",
+            "themeDisplayName": "Claro"
+        },
+        {
+            "themeId": "caa08332-ab53-4f99-bf74-fc80df338064",
+            "themeDisplayName": "Escuro"
+        },
+        {
+            "themeId": "f729c9e5-2d9f-4163-9326-4dfa00c943a7",
+            "themeDisplayName": "Alto contraste"
+        }
+    ],
+    "displayName": "Unify Office",
+    "salutationName": "Unify Office Team",
+    "notificationAppPrefixName": "Unify Office",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Reunião do Unify Office Video",
+    "notificationTradeMark": "Unify é uma marca comercial registrada e todos os direitos são reservados à Unify.",
+    "cancelSupportNumber": "0 800-098-8136 ou +44 203 514 9006 para locais fora do Reino Unido.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Unify Office",
+    "copyright": "Unify, uma empresa da Mitel.",
+    "videoProductName": "Unify Office Video",
+    "mvpProductName": "Aplicativo Unify Office",
+    "officeDisplayName": "Unify Office",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/br/pt/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

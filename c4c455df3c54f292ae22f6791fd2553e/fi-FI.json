@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "e6dd367d-844d-45da-ace7-14f4f444e233",
+            "themeDisplayName": "Vaalea"
+        },
+        {
+            "themeId": "0be4afbf-ce9e-4537-91fe-e2fc88a82cf7",
+            "themeDisplayName": "Tumma"
+        },
+        {
+            "themeId": "2f555de9-4e4d-4083-8a94-2848432d0f4d",
+            "themeDisplayName": "Suuri kontrasti"
+        }
+    ],
+    "displayName": "Avaya Cloud Office",
+    "salutationName": "Avaya Cloud Office Team",
+    "notificationAppPrefixName": "Avaya Cloud",
+    "glipName": "Avaya Cloud",
+    "notificationVideoBridgeName": "Avaya Cloud Office Video -tapaaminen",
+    "notificationTradeMark": "Avaya ja Avaya-logo ovat Avaya Intellectual Propertyn tavaramerkkejä.",
+    "cancelSupportNumber": "(866) 733-0810 tai (925) 271-7320 Yhdysvaltain ulkopuolella",
+    "companyBillingName": "Avaya Cloud byRingCentral",
+    "shortDisplayName": "Avaya Cloud Office",
+    "copyright": "Avaya",
+    "videoProductName": "Avaya Cloud Office Video",
+    "mvpProductName": "Avaya Cloud -sovellus",
+    "officeDisplayName": "Avaya Cloud Office",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

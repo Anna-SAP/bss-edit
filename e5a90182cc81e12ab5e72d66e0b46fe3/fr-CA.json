@@ -1,0 +1,59 @@
+{
+    "themes": [
+        {
+            "themeId": "cf6081a6-8e04-47db-abea-519d963e9384",
+            "themeDisplayName": "Clair",
+            "partnershipLabelLogo": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/logo_powered.png",
+            "serviceSiteMainLogo": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/serviceSiteMainLogo.svg",
+            "appLogoAndroid_mdpi": "",
+            "appLogoAndroid_hdpi": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/dynamic_ic_brand_logo_fr-CA_hdpi.webp",
+            "appLogoAndroid_xhdpi": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/dynamic_ic_brand_logo_fr-CA_xhdpi.webp",
+            "appLogoAndroid_xxhdpi": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/dynamic_ic_brand_logo_fr-CA_xxhdpi.webp",
+            "appLogoAndroid_xxxhdpi": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/dynamic_ic_brand_logo_fr-CA_xxxhdpi.webp",
+            "appLogoIOS@2X": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/img_pt_logo@2x-1.png",
+            "appLogoIOS@3X": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/img_pt_logo@3x-1.png"
+        },
+        {
+            "themeId": "9f062c45-3257-43c2-ab68-2e2d79d946cd",
+            "themeDisplayName": "Foncé",
+            "partnershipLabelLogo": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/logo_powered.png",
+            "serviceSiteMainLogo": "/files/9f062c45-3257-43c2-ab68-2e2d79d946cd/serviceSiteMainLogo.svg",
+            "appLogoAndroid_mdpi": "",
+            "appLogoAndroid_hdpi": "/files/9f062c45-3257-43c2-ab68-2e2d79d946cd/fr-CA/dynamic_ic_brand_logo_fr-CA_night_hdpi.webp",
+            "appLogoAndroid_xhdpi": "/files/9f062c45-3257-43c2-ab68-2e2d79d946cd/fr-CA/dynamic_ic_brand_logo_fr-CA_night_xhdpi.webp",
+            "appLogoAndroid_xxhdpi": "/files/9f062c45-3257-43c2-ab68-2e2d79d946cd/fr-CA/dynamic_ic_brand_logo_fr-CA_night_xxhdpi.webp",
+            "appLogoAndroid_xxxhdpi": "/files/9f062c45-3257-43c2-ab68-2e2d79d946cd/fr-CA/dynamic_ic_brand_logo_fr-CA_night_xxxhdpi.webp",
+            "appLogoIOS@2X": "/files/9f062c45-3257-43c2-ab68-2e2d79d946cd/fr-CA/img_telus_headerlogo_FR-D@2x.png",
+            "appLogoIOS@3X": "/files/9f062c45-3257-43c2-ab68-2e2d79d946cd/fr-CA/img_telus_headerlogo_FR-D@3x.png"
+        },
+        {
+            "themeId": "bd1718e3-3b93-47e0-932f-04309fea1cf7",
+            "themeDisplayName": "Contraste élevé",
+            "partnershipLabelLogo": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/logo_powered.png",
+            "serviceSiteMainLogo": "/files/cf6081a6-8e04-47db-abea-519d963e9384/en-US/serviceSiteMainLogo.svg",
+            "appLogoAndroid_mdpi": "",
+            "appLogoAndroid_hdpi": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/dynamic_ic_brand_logo_fr-CA_hdpi.webp",
+            "appLogoAndroid_xhdpi": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/dynamic_ic_brand_logo_fr-CA_xhdpi.webp",
+            "appLogoAndroid_xxhdpi": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/dynamic_ic_brand_logo_fr-CA_xxhdpi.webp",
+            "appLogoAndroid_xxxhdpi": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/dynamic_ic_brand_logo_fr-CA_xxxhdpi.webp",
+            "appLogoIOS@2X": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/img_pt_logo@2x-1.png",
+            "appLogoIOS@3X": "/files/cf6081a6-8e04-47db-abea-519d963e9384/fr-CA/img_pt_logo@3x-1.png"
+        }
+    ],
+    "displayName": "Connexion Affaires🅪 de TELUS",
+    "salutationName": "TELUS",
+    "notificationAppPrefixName": "Telus",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Réunion Vidéo Connexion Affaires de TELUS",
+    "notificationTradeMark": "TELUS et le logo de TELUS sont des marques de commerce de TELUS Intellectual Property.",
+    "companyBillingName": "Connexion Affaires de TELUS",
+    "shortDisplayName": "Connexion Affaires🅪 de TELUS",
+    "legalInfoPage": "https://telus.com/BusinessConnect/fr/Legal",
+    "salesSupportNumbers": "1 800 820-3676 et 1 925 301-8209",
+    "copyright": "TELUS Communications inc.",
+    "termsOfServicePage": "https://telus.com/BusinessConnect/fr/Legal",
+    "videoProductName": "Vidéo Connexion Affaires de TELUS",
+    "mvpProductName": "Application Connexion Affaires de TELUS",
+    "officeDisplayName": "Connexion Affaires🅪 de TELUS",
+    "releaseNotesPage": "https://www.telus.com/fr/business/support/topic/business-connect/features-and-services/releases"
+}

@@ -1,0 +1,34 @@
+{
+    "themes": [
+        {
+            "themeId": "f072adcd-ab29-40fe-9d5d-9e56c7f188ee",
+            "themeDisplayName": "레이크 블루"
+        },
+        {
+            "themeId": "75637e45-a6b4-4bf8-8074-b57a0f1f3d23",
+            "themeDisplayName": "어두운"
+        },
+        {
+            "themeId": "59286477-b987-4678-8b69-4554d44a3c80",
+            "themeDisplayName": "고대비"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "salesRepresentativeNumbers": "1-800-820-3676 및 1-925-301-8209(미국 외 지역)",
+    "notificationVideoBridgeName": "RingCentral Video 모임",
+    "notificationTradeMark": "All rights reserved. RingCentral 및 RingCentral 로고는 RingCentral, Inc.의 상표입니다.",
+    "cancelSupportNumber": "(866) 733-0810 또는 (925) 271-7320(미국 외 지역)",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "RingCentral",
+    "salesSupportNumbers": "1-800-820-3676 및 1-925-301-8209",
+    "copyright": "RingCentral Intellectual Property.",
+    "emergencyServicePage": "https://www.ringcentral.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentral.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "RingCentral 앱",
+    "officeDisplayName": "RingCentral MVP™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

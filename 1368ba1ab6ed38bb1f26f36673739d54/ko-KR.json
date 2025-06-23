@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "3bd67bd4-adb2-4e6a-98fa-e749784bb2c4",
+            "themeDisplayName": "밝은"
+        },
+        {
+            "themeId": "d76cd004-3a7e-4150-8d30-da6183c2ea70",
+            "themeDisplayName": "어두운"
+        },
+        {
+            "themeId": "73f2fffb-97c7-430e-978e-c6cd3cd47b85",
+            "themeDisplayName": "고대비"
+        }
+    ],
+    "displayName": "RingCentral with Verizon",
+    "salutationName": "RingCentral with Verizon Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral with Verizon Video 모임",
+    "notificationTradeMark": "Verizon은 Verizon Communications, Inc.의 등록 상표입니다.",
+    "companyBillingName": "RingCentral with Verizon",
+    "shortDisplayName": "RingCentral with Verizon",
+    "copyright": "RingCentral, Inc. All rights reserved.",
+    "videoProductName": "RingCentral with Verizon Video",
+    "mvpProductName": "RingCentral with Verizon 앱",
+    "officeDisplayName": "RingCentral with Verizon",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}

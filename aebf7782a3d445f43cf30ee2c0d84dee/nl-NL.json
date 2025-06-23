@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "982070bc-994a-4c86-8a25-3c4dacfe7e94",
+            "themeDisplayName": "Licht"
+        },
+        {
+            "themeId": "c4ca4238-a0b9-2382-0dcc-509a6f75849b",
+            "themeDisplayName": "Donker"
+        },
+        {
+            "themeId": "c20ad4d7-6fe9-7759-aa27-a0c99bff6710",
+            "themeDisplayName": "Hoog contrast"
+        }
+    ],
+    "displayName": "RingCentral with Sunrise",
+    "salutationName": "RingCentral with Sunrise",
+    "notificationAppPrefixName": "RingCentral with Sunrise",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral with Sunrise Video-meeting",
+    "notificationTradeMark": "Sunrise en het Sunrise-logo zijn handelsmerken van Sunrise UPC LLC.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Sunrise",
+    "copyright": "RingCentral, Inc. Alle rechten voorbehouden.",
+    "videoProductName": "RingCentral with Sunrise Video",
+    "mvpProductName": "RingCentral-app",
+    "officeDisplayName": "RingCentral with Sunrise",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

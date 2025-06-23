@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "11136d12-30db-40ab-8934-cb7cbc8b3bfb",
+            "themeDisplayName": "Claro"
+        },
+        {
+            "themeId": "56cdc9f9-cc93-4fe9-ac01-45c4fb4f01c4",
+            "themeDisplayName": "Escuro"
+        },
+        {
+            "themeId": "9410ae05-dbef-4779-9929-b4d9948a1941",
+            "themeDisplayName": "Alto contraste"
+        }
+    ],
+    "displayName": "RingCentral mit ecotel",
+    "salutationName": "RingCentral mit ecotel Team",
+    "notificationAppPrefixName": "RingCentral mit ecotel",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Reunião do RingCentral mit ecotel Video",
+    "notificationTradeMark": "ecotel é uma marca registrada da ecotel communication ag.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "RingCentral",
+    "copyright": "RingCentral, Inc. Todos os direitos reservados.",
+    "videoProductName": "RingCentral mit ecotel Video",
+    "mvpProductName": "Aplicativo RingCentral",
+    "officeDisplayName": "RingCentral mit ecotel",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/br/pt/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

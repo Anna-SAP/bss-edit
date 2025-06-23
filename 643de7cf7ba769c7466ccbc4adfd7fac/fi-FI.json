@@ -1,0 +1,30 @@
+{
+    "themes": [
+        {
+            "themeId": "904c2f35-8680-412d-98dc-1e371ea7a4ed",
+            "themeDisplayName": "Vaalea"
+        },
+        {
+            "themeId": "592b576a-c0bb-4e2c-b519-566e7a1cd9b2",
+            "themeDisplayName": "Tumma"
+        },
+        {
+            "themeId": "a5f76620-64aa-4835-9495-1a051cae75bc",
+            "themeDisplayName": "Suuri kontrasti"
+        }
+    ],
+    "displayName": "AT&T Office@Hand",
+    "salutationName": "AT&T Office@Hand",
+    "notificationAppPrefixName": "AT&T",
+    "glipName": "",
+    "notificationVideoBridgeName": "AT&T Office@Hand -tapaaminen",
+    "notificationTradeMark": "AT&T ja AT&T:n logo ovat AT&T Intellectual Propertyn tavaramerkkejä.",
+    "cancelSupportNumber": "1-866-733-0810 tai 1-925-264-3226 (Yhdysvaltain ulkopuolella)",
+    "companyBillingName": "RingCentral",
+    "shortDisplayName": "Office@Hand",
+    "salesSupportNumbers": "1-800-820-3676 ja 1-925-301-8209",
+    "copyright": "AT&T Intellectual Property. Kaikki oikeudet pidätetään.",
+    "videoProductName": "AT&T Office@Hand Meetings",
+    "mvpProductName": "AT&T Office@Hand -sovellus",
+    "officeDisplayName": "AT&T Office@Hand"
+}

@@ -1,0 +1,29 @@
+{
+    "themes": [
+        {
+            "themeId": "77eceaec-17df-4176-bbbc-54d9fbe9a6e0",
+            "themeDisplayName": "Clair"
+        },
+        {
+            "themeId": "ed240921-9682-4e5f-b96f-4cb34d1ca9cc",
+            "themeDisplayName": "Sombre"
+        },
+        {
+            "themeId": "9eeba8d7-7f1e-45f0-86c9-008098e7bc7e",
+            "themeDisplayName": "Contraste élevé"
+        }
+    ],
+    "displayName": "RingCentral with Eastlink",
+    "salutationName": "RingCentral with Eastlink Team",
+    "notificationAppPrefixName": "RingCentral with Eastlink",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "Réunion RingCentral with Eastlink Video",
+    "notificationTradeMark": "Eastlink est une marque déposée de Bragg Communications Inc.",
+    "companyBillingName": "RingCentral, Inc",
+    "shortDisplayName": "Eastlink",
+    "copyright": "RingCentral, Inc. Tous droits réservés.",
+    "videoProductName": "RingCentral with Eastlink Video",
+    "mvpProductName": "Application RingCentral",
+    "officeDisplayName": "RingCentral with Eastlink",
+    "businessInformationVerificationHelpPage": "https://partnersupport.ringcentral.com/fr/fr/article-v2/Providing-documentation-for-business-information-verification.contentonly.html?brand=RingCentral"
+}

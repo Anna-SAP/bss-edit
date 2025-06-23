@@ -1,0 +1,32 @@
+{
+    "themes": [
+        {
+            "themeId": "dabbac8b-5587-4b2a-b33a-8f3dd99ddc06",
+            "themeDisplayName": "湖水藍"
+        },
+        {
+            "themeId": "b0878766-f7af-4f8b-b099-6c2a7caf9ec0",
+            "themeDisplayName": "深色"
+        },
+        {
+            "themeId": "29c16c92-ab99-4165-8018-dae114d34872",
+            "themeDisplayName": "高對比度"
+        }
+    ],
+    "displayName": "RingCentral",
+    "salutationName": "RingCentral Team",
+    "notificationAppPrefixName": "RingCentral",
+    "glipName": "Glip",
+    "notificationVideoBridgeName": "RingCentral Video 會議",
+    "notificationTradeMark": "保留一切權利。RingCentral 與 RingCentral 標誌為 RingCentral, Inc. 的商標。",
+    "cancelSupportNumber": "1800 940746 或 +61 280738499（非澳洲地區）",
+    "companyBillingName": "RingCentral",
+    "shortDisplayName": "RingCentral",
+    "copyright": "RingCentral Intellectual Property。",
+    "emergencyServicePage": "https://www.ringcentral.com/legal/emergency-services.html",
+    "acceptableUsePolicyPage": "https://www.ringcentral.com/legal/acceptable-use-policy.html",
+    "videoProductName": "RingCentral Video",
+    "mvpProductName": "RingCentral 應用程式",
+    "officeDisplayName": "RingCentral MVP™",
+    "businessInformationVerificationHelpPage": "https://support.ringcentral.com/article-v2/Providing-documentation-for-business-information-verification.html?brand=RingCentral&product=MVP&language=en_US"
+}
